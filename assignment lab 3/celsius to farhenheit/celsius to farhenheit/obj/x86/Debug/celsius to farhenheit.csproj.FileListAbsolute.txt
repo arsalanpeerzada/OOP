@@ -1,0 +1,4 @@
+E:\arsalan\MyC#Practice\Oooppp\assignment lab 3\celsius to farhenheit\celsius to farhenheit\bin\Debug\celsius to farhenheit.exe
+E:\arsalan\MyC#Practice\Oooppp\assignment lab 3\celsius to farhenheit\celsius to farhenheit\bin\Debug\celsius to farhenheit.pdb
+E:\arsalan\MyC#Practice\Oooppp\assignment lab 3\celsius to farhenheit\celsius to farhenheit\obj\x86\Debug\celsius to farhenheit.exe
+E:\arsalan\MyC#Practice\Oooppp\assignment lab 3\celsius to farhenheit\celsius to farhenheit\obj\x86\Debug\celsius to farhenheit.pdb

@@ -1,0 +1,8 @@
+c:\users\wali\documents\visual studio 2010\Projects\quiz 1(1)\quiz 1(1)\bin\Debug\quiz 1(1).exe
+c:\users\wali\documents\visual studio 2010\Projects\quiz 1(1)\quiz 1(1)\bin\Debug\quiz 1(1).pdb
+c:\users\wali\documents\visual studio 2010\Projects\quiz 1(1)\quiz 1(1)\obj\x86\Debug\quiz 1(1).exe
+c:\users\wali\documents\visual studio 2010\Projects\quiz 1(1)\quiz 1(1)\obj\x86\Debug\quiz 1(1).pdb
+E:\arsalan\MyC#Practice\Oooppp\micellanous\quiz 1(1)\quiz 1(1)\obj\x86\Debug\quiz 1(1).exe
+E:\arsalan\MyC#Practice\Oooppp\micellanous\quiz 1(1)\quiz 1(1)\obj\x86\Debug\quiz 1(1).pdb
+E:\arsalan\MyC#Practice\Oooppp\assignment lab 2\quiz 1(1)\quiz 1(1)\obj\x86\Debug\quiz 1(1).exe
+E:\arsalan\MyC#Practice\Oooppp\assignment lab 2\quiz 1(1)\quiz 1(1)\obj\x86\Debug\quiz 1(1).pdb

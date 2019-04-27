@@ -1,0 +1,7 @@
+E:\arsalan\MyC#Practice\Oooppp\analogy\analogy\bin\Debug\analogy.exe
+E:\arsalan\MyC#Practice\Oooppp\analogy\analogy\bin\Debug\analogy.pdb
+E:\arsalan\MyC#Practice\Oooppp\analogy\analogy\obj\x86\Debug\analogy.exe
+E:\arsalan\MyC#Practice\Oooppp\analogy\analogy\obj\x86\Debug\analogy.pdb
+E:\arsalan\MyC#Practice\Oooppp\analogy\analogy\obj\x86\Debug\analogy.csprojResolveAssemblyReference.cache
+F:\arsalan\MyC#Practice\Oooppp\analogy\analogy\obj\x86\Debug\analogy.exe
+F:\arsalan\MyC#Practice\Oooppp\analogy\analogy\obj\x86\Debug\analogy.pdb

@@ -1,0 +1,4 @@
+E:\arsalan\MyC#Practice\Oooppp\assignment lab 3\rectangle\rectangle\bin\Debug\rectangle.exe
+E:\arsalan\MyC#Practice\Oooppp\assignment lab 3\rectangle\rectangle\bin\Debug\rectangle.pdb
+E:\arsalan\MyC#Practice\Oooppp\assignment lab 3\rectangle\rectangle\obj\x86\Debug\rectangle.exe
+E:\arsalan\MyC#Practice\Oooppp\assignment lab 3\rectangle\rectangle\obj\x86\Debug\rectangle.pdb

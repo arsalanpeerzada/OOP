@@ -1,0 +1,4 @@
+E:\arsalan\MyC#Practice\Oooppp\assignment lab 3\salary\salary\bin\Debug\salary.exe
+E:\arsalan\MyC#Practice\Oooppp\assignment lab 3\salary\salary\bin\Debug\salary.pdb
+E:\arsalan\MyC#Practice\Oooppp\assignment lab 3\salary\salary\obj\x86\Debug\salary.exe
+E:\arsalan\MyC#Practice\Oooppp\assignment lab 3\salary\salary\obj\x86\Debug\salary.pdb
