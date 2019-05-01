@@ -1,0 +1,12 @@
+c:\users\wali\documents\visual studio 2010\Projects\assignment\assignment\bin\Debug\assignment.exe
+c:\users\wali\documents\visual studio 2010\Projects\assignment\assignment\bin\Debug\assignment.pdb
+c:\users\wali\documents\visual studio 2010\Projects\assignment\assignment\obj\x86\Debug\assignment.exe
+c:\users\wali\documents\visual studio 2010\Projects\assignment\assignment\obj\x86\Debug\assignment.pdb
+E:\arsalan\MyC#Practice\Oooppp\micellanous\assignment\assignment\obj\x86\Debug\assignment.exe
+E:\arsalan\MyC#Practice\Oooppp\micellanous\assignment\assignment\obj\x86\Debug\assignment.pdb
+E:\arsalan\MyC#Practice\Oooppp\micellanous\assignment\assignment\bin\Debug\assignment.exe
+E:\arsalan\MyC#Practice\Oooppp\micellanous\assignment\assignment\bin\Debug\assignment.pdb
+F:\arsalan\MyC#Practice\Oooppp\micellanous\assignment\assignment\obj\x86\Debug\assignment.exe
+F:\arsalan\MyC#Practice\Oooppp\micellanous\assignment\assignment\obj\x86\Debug\assignment.pdb
+F:\arsalan\MyC#Practice\Oooppp\micellanous\assignment\assignment\bin\Debug\assignment.exe
+F:\arsalan\MyC#Practice\Oooppp\micellanous\assignment\assignment\bin\Debug\assignment.pdb

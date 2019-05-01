@@ -1,0 +1,8 @@
+c:\users\wali\documents\visual studio 2010\Projects\class\class\bin\Debug\@class.exe
+c:\users\wali\documents\visual studio 2010\Projects\class\class\bin\Debug\@class.pdb
+c:\users\wali\documents\visual studio 2010\Projects\class\class\obj\x86\Debug\@class.exe
+c:\users\wali\documents\visual studio 2010\Projects\class\class\obj\x86\Debug\@class.pdb
+E:\arsalan\MyC#Practice\Oooppp\micellanous\class\class\obj\x86\Debug\@class.exe
+E:\arsalan\MyC#Practice\Oooppp\micellanous\class\class\obj\x86\Debug\@class.pdb
+F:\arsalan\MyC#Practice\Oooppp\micellanous\class\class\obj\x86\Debug\@class.exe
+F:\arsalan\MyC#Practice\Oooppp\micellanous\class\class\obj\x86\Debug\@class.pdb

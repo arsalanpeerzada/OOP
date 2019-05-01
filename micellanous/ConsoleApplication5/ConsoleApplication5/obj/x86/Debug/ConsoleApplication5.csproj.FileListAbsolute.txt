@@ -1,0 +1,8 @@
+c:\users\wali\documents\visual studio 2010\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+c:\users\wali\documents\visual studio 2010\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+c:\users\wali\documents\visual studio 2010\Projects\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.exe
+c:\users\wali\documents\visual studio 2010\Projects\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.pdb
+E:\arsalan\MyC#Practice\Oooppp\micellanous\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.exe
+E:\arsalan\MyC#Practice\Oooppp\micellanous\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.pdb
+F:\arsalan\MyC#Practice\Oooppp\micellanous\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.exe
+F:\arsalan\MyC#Practice\Oooppp\micellanous\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.pdb
