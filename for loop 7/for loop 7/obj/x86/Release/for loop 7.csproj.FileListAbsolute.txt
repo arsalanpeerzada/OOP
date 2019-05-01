@@ -1,0 +1,5 @@
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\for loop 7\bin\Release\for loop 7.exe
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\for loop 7\bin\Release\for loop 7.pdb
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\for loop 7\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\for loop 7\obj\x86\Release\for loop 7.exe
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\for loop 7\obj\x86\Release\for loop 7.pdb

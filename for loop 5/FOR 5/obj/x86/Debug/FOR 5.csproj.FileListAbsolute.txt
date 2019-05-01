@@ -1,0 +1,5 @@
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\FOR 5\bin\Debug\FOR 5.exe
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\FOR 5\bin\Debug\FOR 5.pdb
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\FOR 5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\FOR 5\obj\x86\Debug\FOR 5.exe
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\FOR 5\obj\x86\Debug\FOR 5.pdb

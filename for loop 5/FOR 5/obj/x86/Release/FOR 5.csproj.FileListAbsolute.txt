@@ -1,0 +1,7 @@
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\FOR 5\bin\Release\FOR 5.exe
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\FOR 5\bin\Release\FOR 5.pdb
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\FOR 5\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\FOR 5\obj\x86\Release\FOR 5.exe
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\FOR 5\obj\x86\Release\FOR 5.pdb
+C:\Documents and Settings\winb\Desktop\FOR LOOP\FOR 5\FOR 5\obj\x86\Release\FOR 5.exe
+C:\Documents and Settings\winb\Desktop\FOR LOOP\FOR 5\FOR 5\obj\x86\Release\FOR 5.pdb
