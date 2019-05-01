@@ -1,0 +1,4 @@
+E:\arsalan\MyC#Practice\Oooppp\diamond in class\diamond in class\bin\Debug\diamond in class.exe
+E:\arsalan\MyC#Practice\Oooppp\diamond in class\diamond in class\bin\Debug\diamond in class.pdb
+E:\arsalan\MyC#Practice\Oooppp\diamond in class\diamond in class\obj\x86\Debug\diamond in class.exe
+E:\arsalan\MyC#Practice\Oooppp\diamond in class\diamond in class\obj\x86\Debug\diamond in class.pdb

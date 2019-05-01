@@ -1,0 +1,6 @@
+E:\arsalan\MyC#Practice\Oooppp\example\example\bin\Debug\example.exe
+E:\arsalan\MyC#Practice\Oooppp\example\example\bin\Debug\example.pdb
+E:\arsalan\MyC#Practice\Oooppp\example\example\obj\x86\Debug\example.exe
+E:\arsalan\MyC#Practice\Oooppp\example\example\obj\x86\Debug\example.pdb
+F:\arsalan\MyC#Practice\Oooppp\example\example\obj\x86\Debug\example.exe
+F:\arsalan\MyC#Practice\Oooppp\example\example\obj\x86\Debug\example.pdb

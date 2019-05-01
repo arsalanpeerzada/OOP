@@ -1,0 +1,7 @@
+E:\arsalan\MyC#Practice\Oooppp\customized constructur\customized constructur\bin\Debug\customized constructur.exe
+E:\arsalan\MyC#Practice\Oooppp\customized constructur\customized constructur\bin\Debug\customized constructur.pdb
+E:\arsalan\MyC#Practice\Oooppp\customized constructur\customized constructur\obj\x86\Debug\customized constructur.exe
+E:\arsalan\MyC#Practice\Oooppp\customized constructur\customized constructur\obj\x86\Debug\customized constructur.pdb
+E:\arsalan\MyC#Practice\Oooppp\customized constructur\customized constructur\obj\x86\Debug\customized constructur.csprojResolveAssemblyReference.cache
+F:\arsalan\MyC#Practice\Oooppp\customized constructur\customized constructur\obj\x86\Debug\customized constructur.exe
+F:\arsalan\MyC#Practice\Oooppp\customized constructur\customized constructur\obj\x86\Debug\customized constructur.pdb
