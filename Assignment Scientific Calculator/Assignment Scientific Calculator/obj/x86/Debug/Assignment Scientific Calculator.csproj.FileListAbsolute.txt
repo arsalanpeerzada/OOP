@@ -1,0 +1,3 @@
+C:\Users\fc\AppData\Local\Temp\Rar$DIa0.765\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\arsalan\MyC#Practice\Oooppp\oop\Assignment Scientific Calculator\Assignment Scientific Calculator\obj\x86\Debug\Assignment Scientific Calculator.exe
+F:\arsalan\MyC#Practice\Oooppp\oop\Assignment Scientific Calculator\Assignment Scientific Calculator\obj\x86\Debug\Assignment Scientific Calculator.pdb
