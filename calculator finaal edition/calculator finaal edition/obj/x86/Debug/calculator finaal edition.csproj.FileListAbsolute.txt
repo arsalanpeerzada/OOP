@@ -1,0 +1,5 @@
+C:\Users\Khalid\Desktop\oops\calculator finaal edition\calculator finaal edition\bin\Debug\calculator finaal edition.exe
+C:\Users\Khalid\Desktop\oops\calculator finaal edition\calculator finaal edition\bin\Debug\calculator finaal edition.pdb
+C:\Users\Khalid\Desktop\oops\calculator finaal edition\calculator finaal edition\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Khalid\Desktop\oops\calculator finaal edition\calculator finaal edition\obj\x86\Debug\calculator finaal edition.exe
+C:\Users\Khalid\Desktop\oops\calculator finaal edition\calculator finaal edition\obj\x86\Debug\calculator finaal edition.pdb
