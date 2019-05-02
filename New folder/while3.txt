@@ -1,0 +1,14 @@
+
+            int i = 10;
+            while (i < 15)
+            {
+                i += 1;
+                Console.WriteLine(i.ToString()); 
+            
+            
+            }
+            Console.ReadLine();
+
+
+        }
+    }

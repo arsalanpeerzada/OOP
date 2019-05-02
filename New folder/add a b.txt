@@ -1,0 +1,16 @@
+  
+            int a = 2;
+            int b = 3;
+
+            add(a , b);
+
+            result =  c;
+        }
+
+        static int add (int _a, int _b)
+        {
+            int c = _a + _b;
+            return c;
+ 
+        }
+    }

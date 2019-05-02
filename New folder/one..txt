@@ -1,0 +1,29 @@
+ static void Main(string[] args)
+        {
+            
+            Console.WriteLine("Entar fruits");
+            int fruits = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Entar kg");
+            int kg = Convert.ToInt32(Console.ReadLine());
+            if (fruits==1)
+                
+            {
+            //Q1:
+
+                Console.WriteLine(kg * 50);
+            }
+            else if (fruits == 2)
+            {
+
+                Console.WriteLine(kg * 45);
+            }
+            else if (fruits == 3)
+            {
+
+                Console.WriteLine(kg * 40);
+            } 
+            
+            Console.ReadLine();
+        }
+    }
+}

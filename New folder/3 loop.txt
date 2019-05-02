@@ -1,0 +1,10 @@
+decimal a = -150.00m;
+            decimal b = 89.68m;
+
+            for (decimal i = a; i <= b; i = i + 0.1m)
+            {
+                if (i % 3 == 0)
+                {
+                    Console.WriteLine(i);
+                }
+            }Console.ReadLine();

@@ -1,0 +1,30 @@
+
+            int num = Convert.ToInt32(Console.ReadLine());
+            primeno(num);
+        }
+        public static void primeno(int _num)
+        {
+            bool check = true;
+            for (int i = 2; i < _num; i++)
+            {
+                if (_num % i == 0)
+                {
+                    check = false;
+                    break;
+                }
+            }
+            if (check == true)
+            {
+                Console.WriteLine("prime number");
+            }
+            else
+            {
+                Console.WriteLine("not a  prime number");
+            }
+        }
+    }
+}
+             
+        
+    
+

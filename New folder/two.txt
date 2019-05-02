@@ -1,0 +1,7 @@
+ Console.WriteLine("enter distance");
+            Console.WriteLine("time");
+            decimal distance = Convert.ToDecimal(console.ReadLine());
+            int time = Convert.ToDecimal(console.ReadLine());
+            decimal speed;
+            speed = distance / time;
+            Console.WriteLine(speed);

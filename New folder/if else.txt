@@ -1,0 +1,23 @@
+ int fruits;
+            int kg;
+            Console.WriteLine("enter fruits");
+            Console.WriteLine("enter kg");
+            fruits = Convert.ToInt32(Console.ReadLine());
+            kg = Convert.ToInt32(Console.ReadLine());
+            if (fruits == 1)
+            {
+                Console.WriteLine("ruppies=" + fruits * 50 / kg);
+            }
+            else if (fruits == 2)
+            {
+                Console.WriteLine("ruppies=" + fruits * 45 / kg);
+
+            }
+            else
+            {
+                Console.WriteLine("rupies=" + fruits * 40 / kg);
+            } Console.ReadLine();
+           
+        }
+    }
+}

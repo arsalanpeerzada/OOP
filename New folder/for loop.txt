@@ -1,0 +1,29 @@
+
+            int[] Rabail = new int[12];
+            for (int i = 0; i < 12; i++)
+            {
+                Rabail[i]=Convert.ToInt32(Console.ReadLine());
+            }
+
+           
+
+            for (int i = 0; i < 12; i++)
+            {
+                if (Rabail[i] % 2 == 0)
+                {
+                    Console.WriteLine(Rabail[i]);
+                }
+              
+            }
+
+            for (int i = 0; i < length; i++)
+            {
+                if (Rabail[i])
+                {
+                    
+                }
+            }
+           
+        }
+    }
+}

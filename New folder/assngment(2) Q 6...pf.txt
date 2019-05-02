@@ -1,0 +1,44 @@
+Q no 6
+
+Console.WriteLine("initial velocity=");
+            int initialvelocity = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("accelaration");
+            int acceleration = Convert.ToInt32(Console.ReadLine());
+            int finalvelocity= initialvelocity+acceleration;
+            Console.WriteLine("finalvelocity="+finalvelocity);
+---------------------------------------------------------------------------------------------
+ Console.WriteLine("time");
+            int time = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("distance");
+            int distance = Convert.ToInt32(Console.ReadLine());
+            int speed = distance / time;
+            Console.WriteLine("speed="+speed);
+.........................................................................................
+
+            Console.WriteLine("initial velocity=");
+            int initialvelocity = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("final velocity=");
+            int finlvelocity = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("time");
+            int time = Convert.ToInt32(Console.ReadLine());
+            int acceleration = finlvelocity - initialvelocity / time;
+            Console.WriteLine("acceleration="+acceleration);
+______________________________________________________________________________________________
+ Console.WriteLine("mass");
+            int mass = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("velocity");
+            int velocity = Convert.ToInt32(Console.ReadLine());
+            int kineticenergy =( 1 / 2 * mass * velocity)*velocity;
+            Console.WriteLine("kinetic energy="+kineticenergy );
+_____________________________________________________________________________________________
+
+Console.WriteLine("initial velocity=");
+            int initialvelocity = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("final velocity=");
+            int finlvelocity = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("time");
+            int time = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("accelaration");
+            int acceleration = Convert.ToInt32(Console.ReadLine());
+            int distance=(initialvelocity*time)+(1/2*(acceleration*time)*time);
+            Console.WriteLine("distance"+distance);

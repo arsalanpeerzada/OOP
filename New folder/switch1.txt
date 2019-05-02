@@ -1,0 +1,110 @@
+  Console.WriteLine("Press G for Game Theory");
+            Console.WriteLine("Press D for Agile Software Development");
+            Console.WriteLine("Press S for Software Process Management");
+            Console.WriteLine("Press P for Phycology");
+            Console.WriteLine("Press A for Advanced Programming");
+            char input = Convert.ToChar(Console.ReadLine().ToLower());
+            Console.Clear();
+            switch (input)
+            {
+                case 'g':
+                    {
+                        Console.WriteLine("Enter 3 numbers to find out maximum value");
+                        int a = Convert.ToInt32(Console.ReadLine());
+                        int b = Convert.ToInt32(Console.ReadLine());
+                        int c = Convert.ToInt32(Console.ReadLine());
+                        int i;
+                        int Max = 0;
+                        int Min = 0;
+                        int[] ArrayName = { a, b, c };
+                        Min = ArrayName[0];
+                        for (i = 0; i < 3; i++)
+                        {
+                            if (Min > ArrayName[i])
+                                Min = ArrayName[i];
+                        }
+
+                        for (i = 0; i < 3; i++)
+                        {
+                            if (Max < ArrayName[i])
+                                Max = ArrayName[i];
+                        }
+                        Console.WriteLine("your max number " + Max);
+                        Console.WriteLine("your min number " + Min);
+                    }
+                    break;
+                case 'd':
+                    {
+                        Console.WriteLine("Press R for Requirement Engineering");
+                        Console.WriteLine("Press D for Designing");
+                        Console.WriteLine("Press I for Implementation");
+                        Console.WriteLine("Press T for Testing");
+                        Console.WriteLine("Press M for Maintenance");
+
+                        char C = Convert.ToChar(Console.ReadLine());
+
+                        if (C == 'R' || C == 'D' || C == 'T' || C == 'I' || C == 'M')
+                        {
+                            Console.WriteLine("Valid Input");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Invalid Input");
+                        }
+                    }
+                    break;
+
+                case 's':
+                    {
+                        Console.WriteLine("Press R for Requirement Engineering");
+                        Console.WriteLine("Press D for Designing");
+                        Console.WriteLine("Press I for Implementation");
+                        Console.WriteLine("Press T for Testing");
+                        Console.WriteLine("Press M for Maintenance");
+
+                        char C = Convert.ToChar(Console.ReadLine());
+
+                        if (C == 'R' || C == 'D' || C == 'T' || C == 'I' || C == 'M')
+                        {
+                            Console.WriteLine("Valid Input");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Invalid Input");
+                        }
+                    }
+                    break;
+                case 'p':
+                    Console.WriteLine("	Presenting yourself as enduser and criticizing your own work");
+                    break;
+                case 'a':
+                    {
+                        Console.WriteLine("Input 100 for Object Oriented Programming");
+                        Console.WriteLine("Input 200 for Data Structures");
+                        Console.WriteLine("Input 300 for Design Patterns");
+                        Console.WriteLine("Input 400 for Programming with new paradigms");
+                        int s = Convert.ToInt32(Console.ReadLine());
+                        switch (s)
+                        {
+                            case 100:
+                                Console.WriteLine("Object Oriented Programming");
+                                break;
+                            case 200:
+                                Console.WriteLine("Data Structures");
+                                break;
+                            case 300:
+                                Console.WriteLine("Designm Patterns");
+                                break;
+                            case 400:
+                                Console.WriteLine("Programming with new paradigms");
+                                break;
+                            default:
+                                Console.WriteLine("No other courses are offered right now");
+                                break;
+                        }
+                    }
+                    break;
+            } 
+        }
+    }
+}

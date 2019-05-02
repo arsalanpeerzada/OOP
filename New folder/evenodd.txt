@@ -1,0 +1,15 @@
+class EvenOdd
+    {
+        int Num;
+        public void EVEN(int x)
+        {
+            Num = x;
+            if (Num % 2 == 0)
+            {
+                Console.WriteLine("EVEN");
+            }
+            else
+            {
+                Console.WriteLine("ODD");
+            }
+            

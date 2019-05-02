@@ -1,0 +1,5 @@
+C:\Users\Khalid\Desktop\table by private method\table by private method\bin\Release\table by private method.exe
+C:\Users\Khalid\Desktop\table by private method\table by private method\bin\Release\table by private method.pdb
+C:\Users\Khalid\Desktop\table by private method\table by private method\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Khalid\Desktop\table by private method\table by private method\obj\x86\Release\table by private method.exe
+C:\Users\Khalid\Desktop\table by private method\table by private method\obj\x86\Release\table by private method.pdb

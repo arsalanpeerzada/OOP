@@ -1,0 +1,17 @@
+ Console.WriteLine("ENTER NUMBER");
+            int a = Convert.ToInt32(Console.ReadLine());
+        }
+
+        static bool methd(int _a)
+        {
+            if (_a % 2 == 0)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+    }
+}

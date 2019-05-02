@@ -1,0 +1,30 @@
+ Console.WriteLine("enter nationality");
+            Console.WriteLine("enter gender");
+            Console.WriteLine("enter age");
+
+            string nationality = Console.ReadLine();
+            string gender = Console.ReadLine();
+            int age=Convert.ToInt32(Console.ReadLine());
+
+            switch (nationality)
+            {
+                case "pakistan":
+                    break;
+                    switch (gender)
+
+                    {
+                        case "male":
+                            if (age >= 1 && age <= 5)
+                            {
+
+                            Console.WriteLine("pakistani infant baby boy");
+                    }
+                            break;
+                        default: Console.WriteLine("no");
+                            break;
+                            
+                    }
+            } Console.ReadLine();
+        }
+    }
+}

@@ -1,0 +1,107 @@
+            Console.WriteLine("There are five courses with codes \n g or G for Game Theory \n s or S for Agile Software Development \n m or M for Software Process Management \n p or P for Psychology \n a or A for Advance Programming");
+            Console.WriteLine("\n Enter code");
+            char code = Convert.ToChar(Console.ReadLine());
+
+            
+            
+           switch (code)
+            {
+                case 'g':
+                case 'G':
+                    Console.WriteLine("Enter three numbers");
+                    int num1 = Convert.ToInt32(Console.ReadLine());
+                    int num2 = Convert.ToInt32(Console.ReadLine());
+                    int num3 = Convert.ToInt32(Console.ReadLine());
+
+                    if ((num1 > num2) && (num1 > num3) && (num2 < num3))
+                    {
+                        Console.WriteLine("The Highest number is " + num1 + " \n The Lowest number is " + num2);
+                    }
+                    else if ((num2 > num1) && (num2 > num3) && (num3 < num1))
+                    {
+                        Console.WriteLine("The Highest number is " + num2 + " \n The Lowest number is " + num3);
+                    }
+                    else if ((num3 > num1) && (num3 > num2) && (num1 < num2))
+                    {
+                        Console.WriteLine("The Highest number is " + num3 + " \n The Lowest number is " + num1);
+                    }
+                    else if ((num1 > num2) && (num1 > num3) && (num3 < num2))
+                    {
+                        Console.WriteLine("The Highest number is " + num1 + " \n The Lowest number is " + num3);
+                    }
+                    else if ((num2 > num1) && (num2 > num3) && (num1 < num3))
+                    {
+                        Console.WriteLine("The Highest number is " + num2 + " \n The Lowest number is " + num1);
+                    }
+                    else if ((num3 > num1) && (num3 > num2) && (num2 < num1))
+                    {
+                        Console.WriteLine("The Highest number is " + num3 + " \n The Lowest number is " + num2);
+                    }
+                    else
+                        Console.WriteLine("Invalid Input");
+                    break;
+
+                case 's':
+                case 'S':
+                case 'm':
+                case 'M':
+                    Console.WriteLine("Select one these options \n requirement engineering \n designing \n implementation \n testing \n maintenance");
+                    string option = Console.ReadLine();
+
+                    switch (option)
+                    {
+                        case "requirement engineering":
+                        case "designing":
+                        case "implementation":
+                        case "testing":
+                        case "maintenance":
+                            Console.WriteLine("valid input");
+                            break;
+
+                        default:
+                            Console.WriteLine("Invalid input");
+                            break;
+                    }
+                    break;
+
+                case 'p':
+                case 'P':
+                    Console.WriteLine("Presenting yourself as end-user and criticizing your own work");
+                    break;
+
+                case 'a':
+                case 'A':
+                    Console.WriteLine("Enter input out of these options \n 100 \n 200 \n 300 \n 400");
+                    int input = Convert.ToInt32(Console.ReadLine());
+
+                    switch (input)
+                    {
+                        case 100:
+                            Console.WriteLine("Object Oriented Programming");
+                            break;
+
+                        case 200:
+                            Console.WriteLine("Data Structures");
+                            break;
+
+                        case 300:
+                            Console.WriteLine("Design Patterns");
+                            break;
+
+                        case 400:
+                            Console.WriteLine("Programming with new paradigms");
+                            break;
+
+                        default:
+                            Console.WriteLine("Invalid Input");
+                            break;
+                    }
+                    break;
+
+                default:
+                    Console.WriteLine("Invalid Input");
+                    break;
+            }
+        }
+    }
+}

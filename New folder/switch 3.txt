@@ -1,0 +1,102 @@
+ Console.WriteLine("enter nationality");
+        Console.WriteLine("enter gender");
+        Console.WriteLine("enter age");
+
+        string nationality = Console.ReadLine();
+        string gender = Console.ReadLine();
+        int age = Convert.ToInt32(Console.ReadLine());
+
+        switch (nationality)
+        {
+            case "pakistan":
+                {
+                    switch (gender)
+                    {
+                        case "male":
+                            if (age >= 1 && age <= 5)
+                            {
+
+                                Console.WriteLine("pakistani infant baby boy");
+                            }
+                            break;
+                        case "female":
+                            if (age > 18)
+                            {
+                                Console.WriteLine("Enter speed & time to respectively to calculate speed");
+                                decimal v = Convert.ToInt32(Console.ReadLine());
+                                decimal t = Convert.ToInt32(Console.ReadLine());
+                                decimal speed = v / t;
+                                Console.WriteLine(speed);
+
+                            }
+                            break;
+
+                    }
+                }
+                break;
+
+
+            case "china":
+                switch (gender)
+                {
+                    case "male":
+                        {
+                            if (age == 15 || age == 16)
+                            {
+                                Console.WriteLine("Enter volume to  calculate cube");
+                                int cube = Convert.ToInt32(Console.ReadLine());
+                                int volume = cube * 3; ;
+                                Console.WriteLine(volume);
+                            }
+                        }
+                        break;
+                    case "female":
+                        {
+                            if (age == 15 || age == 16)
+                            {
+                                Console.WriteLine("Enter volume to  calculate cube");
+                                int cube = Convert.ToInt32(Console.ReadLine());
+                                int volume = cube * 3; ;
+                                Console.WriteLine(volume);
+                            }
+                        }
+                        break;
+                 
+                }
+                break;
+
+
+            case "russia":
+                switch (gender)
+                {
+                    case "female":
+                        if (age>=10 && age<=20 || age >=22 && age<=45)
+                        {
+                            for (int i = 0; i < 5; i++)              
+                            {
+                                Console.WriteLine("The Hungry Cyber Pet v 03");
+                            }
+                        }
+                        break;
+                }
+                break;
+            default:
+                {
+                    int num = Convert.ToInt32(Console.ReadLine());
+                    for (int i = 0; i < num; i++)
+                    {
+                        Console.WriteLine("I am sorry i cant help you");
+                    }
+                    
+
+
+                }
+                break;
+        }
+    }
+}
+    
+
+        }
+    
+

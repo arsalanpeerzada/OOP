@@ -1,0 +1,11 @@
+ Console.WriteLine("initial value");
+            Console.WriteLine("final value");
+            int initialValue=Convert.ToInt32(Console.ReadLine());
+            int finalValue=Convert.ToInt32(Console.ReadLine());
+            for (int i = initialValue; i <= finalValue; i++)
+            {
+                Console.WriteLine(i);
+            }
+        }
+    }
+}
