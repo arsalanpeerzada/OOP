@@ -1,0 +1,7 @@
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\castin exmple 2\bin\Debug\castin exmple 2.exe
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\castin exmple 2\bin\Debug\castin exmple 2.pdb
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\castin exmple 2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\castin exmple 2\obj\x86\Debug\castin exmple 2.exe
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\castin exmple 2\obj\x86\Debug\castin exmple 2.pdb
+C:\Documents and Settings\winb\Desktop\castin exmple 2\castin exmple 2\obj\x86\Debug\castin exmple 2.exe
+C:\Documents and Settings\winb\Desktop\castin exmple 2\castin exmple 2\obj\x86\Debug\castin exmple 2.pdb

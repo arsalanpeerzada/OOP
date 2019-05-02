@@ -1,0 +1,7 @@
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\casting\bin\Release\casting.exe
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\casting\bin\Release\casting.pdb
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\casting\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\casting\obj\x86\Release\casting.exe
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\casting\obj\x86\Release\casting.pdb
+C:\Documents and Settings\winb\Desktop\casting\casting\obj\x86\Release\casting.exe
+C:\Documents and Settings\winb\Desktop\casting\casting\obj\x86\Release\casting.pdb
