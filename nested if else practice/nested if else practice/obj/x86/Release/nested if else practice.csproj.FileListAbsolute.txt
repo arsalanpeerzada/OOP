@@ -1,0 +1,7 @@
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\nested if else practice\bin\Release\nested if else practice.exe
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\nested if else practice\bin\Release\nested if else practice.pdb
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\nested if else practice\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\nested if else practice\obj\x86\Release\nested if else practice.exe
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\nested if else practice\obj\x86\Release\nested if else practice.pdb
+C:\Documents and Settings\winb\Desktop\nested if else practice\nested if else practice\obj\x86\Release\nested if else practice.exe
+C:\Documents and Settings\winb\Desktop\nested if else practice\nested if else practice\obj\x86\Release\nested if else practice.pdb

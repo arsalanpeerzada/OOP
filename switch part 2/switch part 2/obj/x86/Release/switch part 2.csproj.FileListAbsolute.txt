@@ -1,0 +1,7 @@
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\switch part 2\bin\Release\switch part 2.exe
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\switch part 2\bin\Release\switch part 2.pdb
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\switch part 2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\switch part 2\obj\x86\Release\switch part 2.exe
+C:\Documents and Settings\winb\Local Settings\Application Data\Temporary Projects\switch part 2\obj\x86\Release\switch part 2.pdb
+C:\Documents and Settings\winb\Desktop\switch part 2\switch part 2\obj\x86\Release\switch part 2.exe
+C:\Documents and Settings\winb\Desktop\switch part 2\switch part 2\obj\x86\Release\switch part 2.pdb

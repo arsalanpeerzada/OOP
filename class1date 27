@@ -1,0 +1,55 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ConsoleApplication2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int a =Convert.ToInt32(Console.ReadLine());
+            int b =Convert.ToInt32(Console.ReadLine());
+            calculeter obj= new calculeter();
+
+        }
+    }
+    class calculeter
+    {
+        int result;
+        public void add(int a, int b)
+        {
+              result = a+b;
+            Console.WriteLine(result);
+
+             
+    
+        }
+         public void sub(int a, int b)
+         {
+               result = a-b;
+            Console.WriteLine(result);
+         }
+
+        public void mul(int a, int b)
+         {
+               result = a*b;
+            Console.WriteLine(result);
+         }
+
+        
+        
+    }
+       
+    }
+       
+   
+
+    
+   
+        
+
+    
+
+
